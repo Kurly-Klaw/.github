@@ -25,10 +25,10 @@ Somos um grupo que busca, de forma acertiva e dinâmica, desenvolver soluções 
 Rafael | Lider
 ------- | ------
 Rafael de Moura | Lider Geral
-Gustavo A. | Líder Téc. e Dev
+Gabriel A. | Líder Téc. e Dev
 Daniel | Design
 Kricia | Dev. FrontEnd
-Gustavo C. | Dev. FrontEnd
+Gabriel C. | Dev. FrontEnd
 Pedro Ivo Lobo | Dev. FrontBack
 
 ## Marca
