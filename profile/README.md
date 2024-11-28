@@ -17,11 +17,18 @@
 
 ###### Keywords: Projeto Integrado - Sistemas e Mídias Digitais - Universidade Federal do Ceará
 
-<!--Quem somos-->
+<h4>Sumário: 
+ <a href="#sobre">Sobre</a> |
+ <a href="#membros">Membros</a> |
+ <a href="#marca">A marca</a>
+ </h4>
 
+<!---->
+<h3 name="sobre"> Quem somos </h3>
 Somos uma equipe comprometida em criar soluções inovadoras e eficientes, com foco em agregar valor de maneira estratégica e colaborativa, alinhando criatividade e funcionalidade às demandas contemporâneas. 
 
-## Membros 
+<h2 name="membros"> Membros </h2> 
+
 Rafael | Lider
 ------- | ------
 Rafael de Moura | Lider Geral
@@ -31,7 +38,7 @@ Kricia | Dev. FrontEnd
 Gabriel C. | Dev. FrontEnd
 Pedro Ivo Lobo | Dev. FrontBack
 
-## Marca
+<h2 name="marca"> Nossa marca </h2> 
 
 <img src="https://github.com/user-attachments/assets/4c5c1420-24ac-474d-a16d-f81866a26a6b" alt="Identidade do grupo" width=40% height=auto>
 
