@@ -19,6 +19,7 @@
 
 <h4>Sumário: 
  <a href="#sobre">Sobre</a> |
+  <a href="#projeto">O projeto</a> |
  <a href="#membros">Membros</a> |
  <a href="#marca">A marca</a>
  </h4>
@@ -26,6 +27,10 @@
 <!---->
 <h3 name="sobre"> Quem somos </h3>
 Somos uma equipe comprometida em criar soluções inovadoras e eficientes, com foco em agregar valor de maneira estratégica e colaborativa, alinhando criatividade e funcionalidade às demandas contemporâneas. 
+
+<h3 name="projeto"> O projeto </h3>
+
+Temos como primeiro projeto.
 
 <h2 name="membros"> Membros </h2> 
 
@@ -40,11 +45,17 @@ Pedro Ivo Lobo | Dev. FrontBack
 
 <h2 name="marca"> Nossa marca </h2> 
 
-<img src="https://github.com/user-attachments/assets/4c5c1420-24ac-474d-a16d-f81866a26a6b" alt="Identidade do grupo" width=40% height=auto>
+<div margin=20px align="center" heigth="auto">
+  
+  <img src="https://github.com/user-attachments/assets/0456442f-2d1b-4de5-9ee0-bdfc497f242f" alt="Identidade do grupo" width=50% height=auto align="left">
+  <img src="https://github.com/user-attachments/assets/74a995c3-abd1-481b-b399-c84fd9fdfc5e" alt="Identidade do grupo" width=40% height=auto align="rigth">
+  <img src="https://github.com/user-attachments/assets/b481705c-d84b-4938-a006-a3bfc568551d" alt="Identidade do grupo" width=30% height=auto align="rigth">
+  <img src="https://github.com/user-attachments/assets/c6394c51-8010-4fbf-91b6-a4ab58a48422" alt="Identidade do grupo" width=30% height=auto align="rigth">
 
-Paleta utilizada:
+</div> 
 
-<img src="https://github.com/user-attachments/assets/b3507e64-3250-49fa-811d-78afb6c4a9bc" alt="Cores usadas na identidade do grupo. Azul leve: #2440BF ; Laranja forte: #6D7FD1 ; Azul marcante: #E3B92D ; Amarelo leve: #DB5E0B ; Ocre: #F5DF85 ; Preto: #000000 " width=100% height=auto>
+<h3 > Paleta</h3>
+<img src="https://github.com/user-attachments/assets/41082912-c118-4aea-aacd-b63ed2d9f472" alt="Cores usadas na identidade do grupo. Azul leve: #2440BF ; Laranja forte: #6D7FD1 ; Azul marcante: #E3B92D ; Amarelo leve: #DB5E0B ; Ocre: #F5DF85 ; Preto: #000000 " width=100% height=auto>
 
 <h6>
   <a href="#inicio">Voltar ao início</a>
