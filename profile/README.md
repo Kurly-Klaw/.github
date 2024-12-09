@@ -20,9 +20,11 @@
 
 <h4>Sumário: 
  <a href="#sobre">Sobre</a> |
-  <a href="#projeto">O projeto</a> |
+ <a href="#projeto">O projeto</a> |
  <a href="#membros">Membros</a> |
- <a href="#marca">A marca</a>
+ <a href="#marca">A marca</a> |
+ <a href="#tecnologias">Tecnologias</a> |
+ <a href="#licença">Licença</a>
  </h4>
 
 <!---->
@@ -59,7 +61,7 @@ Pedro Ivo Lobo | Dev. FrontBack
 	<img src="https://github.com/user-attachments/assets/41082912-c118-4aea-aacd-b63ed2d9f472" alt="Cores usadas na identidade do grupo. Azul leve: #2440BF ; Laranja forte: #6D7FD1 ; Azul marcante: #E3B92D ; Amarelo leve: #DB5E0B ; Ocre: #F5DF85 ; Preto: #000000 " width=100% height=auto>
 </div> 
 
-## Tecnologias escolhidas 
+<h2 name="tecnologias">Tecnologias escolhidas</h2>
 
 <div>
 	<h6>Backend</h6>
@@ -262,7 +264,7 @@ Pedro Ivo Lobo | Dev. FrontBack
         <p><strong>COMO:</strong> usuário administrador, <strong>QUERO:</strong> marcar qualquer dia e horário específico para uma cliente mesmo que ela não esteja cadastrada <strong>PARA:</strong> marcar um horário de clientes que ainda preferem o método tradicional e marquem horários com a atendente, assim o salão pode usar nosso sistema como ponto central de agendamentos.</p>
 </div>
 
-## Renuncia dos Direitos
+<h2 name="licença">Renuncia dos Direitos</h2>
 
 Kuly Klaw, Inc., hereby disclaims all copyright interest in the program written by Kuly Klaw Team.
 
