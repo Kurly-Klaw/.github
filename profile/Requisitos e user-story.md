@@ -2,7 +2,7 @@
  </h4>
 
 ## Requisitos do sistema
-<table name="requisitos" style="width:100%">
+<table name="requisitos">
 	<thead>
 		<tr>
 			<th>Código</th>
@@ -156,7 +156,7 @@
 
 ## Primeira interação de User Stories
 
-<div  class="user-story">
+<div  name="user-story">
 
 **Requisito Funcional 001 (Cód. RF G001):**
 
@@ -257,15 +257,5 @@ Requisito Funcional 019 (Cód. RF ADM019):
 **Requisito Funcional 025 (Cód. RF ADM025):**
 
 **COMO**: usuário administrador, **QUERO:** visualizar feedbaks ,**PARA:** compreender as opiniões dos clientes sobre os serviços.
-
-**Requisito Funcional 026 (Cód. RF ADM026):**
-
-**COMO**: usuário administrador, **QUERO:** fazer ,**PARA:** melhor atender.
-
-**Requisito Funcional 027 (Cód. RF ADM027):**
-
-**COMO**: usuário administrador, **QUERO:** fazer ,**PARA:** melhor atender.
-
-**Requisito Funcional 028 (Cód. RF ADM028):**
 
 </div>
