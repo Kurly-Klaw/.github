@@ -230,6 +230,8 @@ Modelo de autenticação: JWT<br>
     </tbody>
 </table>
 
+<a href="./Requisitos e user-story.md">User Story</a>
+
 <h2 name="licença">Renuncia dos Direitos</h2>
 
 Kuly Klaw, Inc., hereby disclaims all copyright interest in the program written by Kuly Klaw Team.
