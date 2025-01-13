@@ -135,22 +135,6 @@
 			<td>Visualizar os feedbacks por cada agendamento finalizado </td>
 			<td>Alta</td>
 		</tr>
-		<tr>
-			<td>RF ADM26</td>
-			<td>Cadastrar recomendações de tratamentos de acordo com informações sobre cabelo dadas pelo cliente
-			</td>
-			<td>Baixa</td>
-		</tr>
-		<tr>
-			<td>RF ADM27</td>
-			<td>Editar recomendações de tratamentos </td>
-			<td>Baixa</td>
-		</tr>
-		<tr>
-			<td>RF ADM28</td>
-			<td>Excluir recomendações de tratamentos </td>
-			<td>Baixa</td>
-		</tr>
     </tbody>
 </table>
 
