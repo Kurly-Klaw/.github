@@ -155,20 +155,20 @@
 <td> RF.G010 </td>
 <td>Tirar dúvidas com a atendente </td>
 <td>Média</td>
-<td>Pendente</td>
+<td>Suspenso</td>
    </tr>
    <tr>
 <td>RF.G018</td>
 <td>Preencher a tela de recomendações com os dados do seu cabelo e receber um tratamento
    recomendado de acordo com as variáveis</td>
 <td>Média</td>
-<td>Concluído</td>
+<td>Suspenso</td>
    </tr>
    <tr>
 <td>RF.ADM19</td>
 <td>Cadastrar os tratamentos do catálogo inicial </td>
 <td>Média</td>
-<td>Suspenso</td>
+<td>Pendente</td>
    </tr>
    <tr>
 <td>RF.ADM20</td>
@@ -182,7 +182,30 @@
 <td>Média</td>
 <td>Suspenso</td>
    </tr>
-
+   <tr>
+<td>RF.ADM28</td>
+<td>Confirmar agendamentos solicitados</td>
+<td>Alta</td>
+<td>Pendente</td>
+   </tr>
+   <tr>
+<td>RF.ADM29</td>
+<td>Visualizar todos os usuários cadastrados.</td>
+<td>Média</td>
+<td>Pendente</td>
+   </tr>
+   <tr>
+<td>RF.G030</td>
+<td>Feedback's de interação.<td>
+<td>Média</td>
+<td>Pendente</td>
+   </tr>
+   <tr>
+<td>RF.G0M31</td>
+<td>Editar informações pessoais</td>
+<td>Alta</td>
+<td>Pendente</td>
+   </tr>
 </tbody>
 </table>
 
