@@ -77,52 +77,228 @@ Conexão com API: FETCH ou AXIOS<br>
 Modelo de autenticação: JWT<br>
 
 ## Tabela de Requisitos
-<table name="requisitos-backend" border style="border-collapse: collapse;">
-   <thead>
-<th>Código</th>
-<th>Funcionalidade</th>
-<th>Prioridade</th>
-<th>Status</th>
-</thead>
-<tbody>
-   <tr>
-<td>RF.G003 </td>
-<td>Pré-Cadastrar usuário </td>
-<td>Alta</td>
-<td>Concluído</td>
-   </tr>
-   <tr>
-<td>RF.PA004 </td>
-<td>Ver um calendário com os horários disponíveis </td>
-<td>Alta</td>
-<td>Concluído</td>
-   </tr>
-   <tr>
-<td>RF.PA006 </td>
-<td>Ver meu horário marcado </td>
-<td>Alta</td>
-<td>Concluído</td>
-   </tr>
-   <tr>
-<td>RF.PA007 </td>
-<td>Editar um horário marcado </td>
-<td>Média</td>
-<td>Concluído</td>
-   </tr>
-   <tr>
-<td>RF.PA008 </td>
-<td>Cancelar um horário marcado </td>
-<td>Média</td>
-<td>Concluído</td>
-   </tr>
-   <tr>
-<td>RF.PA009 </td>
-<td>Ver meu historico de horários marcados </td>
-<td>Média</td>
-<td>Concluído</td>
-   </tr>
-   </tbody>
-   </table>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Descrição</th>
+            <th>Prioridade</th>
+            <th>Obrigatório</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>RF.G001</td>
+            <td>Visualizar o catálogo interativo com todos os serviços do salão.</td>
+            <td>Alta</td>
+            <td></td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RNF G002</td>
+            <td>Deve ser responsivo para dispositivos móveis</td>
+            <td>Alta</td>
+            <td></td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.G003</td>
+            <td>Pré-Cadastrar usuário</td>
+            <td>Alta</td>
+            <td>Sim</td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.PA004</td>
+            <td>Ver horários disponíveis</td>
+            <td>Alta</td>
+            <td>Sim</td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.PA005</td>
+            <td>Marcar um horário</td>
+            <td>Alta</td>
+            <td>Sim</td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.PA006</td>
+            <td>Ver meu horário marcado</td>
+            <td>Alta</td>
+            <td>Sim</td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.PA007</td>
+            <td>Editar um horário marcado</td>
+            <td>Média</td>
+            <td>Não</td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.PA008</td>
+            <td>Cancelar um horário marcado</td>
+            <td>Média</td>
+            <td>Sim</td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.PA009</td>
+            <td>Ver meu histórico de horários marcados</td>
+            <td>Média</td>
+            <td>Não</td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.G010</td>
+            <td>Tirar dúvidas com a atendente</td>
+            <td>Média</td>
+            <td></td>
+            <td>Suspenso</td>
+        </tr>
+        <tr>
+            <td>RF.G011</td>
+            <td>Realizar login na aplicação</td>
+            <td>Alta</td>
+            <td>Sim</td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.G012</td>
+            <td>Realizar logout da aplicação</td>
+            <td>Média</td>
+            <td>Não</td>
+            <td>Desejável</td>
+        </tr>
+        <tr>
+            <td>RF.ADM13</td>
+            <td>Ver a lista com todos os horários marcados</td>
+            <td>Alta</td>
+            <td>Sim</td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.ADM14</td>
+            <td>Filtrar os horários por dados relevantes como data e hora.</td>
+            <td>Média</td>
+            <td></td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.ADM15</td>
+            <td>Cancelar, Confirmar e Finalizar qualquer horário marcado da tabela</td>
+            <td>Média</td>
+            <td></td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.ADM16</td>
+            <td>Cadastrar os horários de atendimentos disponíveis por cada data ou um conjunto de datas</td>
+            <td>Baixa</td>
+            <td></td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.ADM17</td>
+            <td>Marcar qualquer dia e horário específico para uma cliente mesmo que ela não esteja cadastrada</td>
+            <td>Alta</td>
+            <td></td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.G018</td>
+            <td>Preencher a tela de recomendações com os dados do seu cabelo e receber um tratamento recomendado de acordo com as variáveis</td>
+            <td>Média</td>
+            <td></td>
+            <td>Suspenso</td>
+        </tr>
+        <tr>
+            <td>RF.ADM19</td>
+            <td>Cadastrar os tratamentos do catálogo inicial</td>
+            <td>Média</td>
+            <td></td>
+            <td>Desejável</td>
+        </tr>
+        <tr>
+            <td>RF.ADM20</td>
+            <td>Excluir tratamentos do catálogo inicial</td>
+            <td>Média</td>
+            <td></td>
+            <td>Suspenso</td>
+        </tr>
+        <tr>
+            <td>RF.ADM21</td>
+            <td>Editar os tratamentos do catálogo inicial</td>
+            <td>Média</td>
+            <td></td>
+            <td>Suspenso</td>
+        </tr>
+        <tr>
+            <td>RF.PA022</td>
+            <td>Gerar uma notificação sempre que houver qualquer mudança de status no seu agendamento</td>
+            <td>Média</td>
+            <td></td>
+            <td>Desejável</td>
+        </tr>
+        <tr>
+            <td>RF.PA023</td>
+            <td>Dar um feedback no agendamento depois que ele for finalizado</td>
+            <td>Alta</td>
+            <td>Não</td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.ADM24</td>
+            <td>Enviar uma rotina capilar personalizada para cliente depois do agendamento ser concluído</td>
+            <td>Alta</td>
+            <td></td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.ADM25</td>
+            <td>Visualizar os feedbacks por cada agendamento finalizado</td>
+            <td>Alta</td>
+            <td></td>
+            <td>Concluído</td>
+        </tr>
+        <tr>
+            <td>RF.ADM26</td>
+            <td>Confirmar agendamentos solicitados</td>
+            <td>Alta</td>
+            <td></td>
+            <td>Desejável</td>
+        </tr>
+        <tr>
+            <td>RF.ADM27</td>
+            <td>Visualizar todos os usuários cadastrados.</td>
+            <td>Média</td>
+            <td></td>
+            <td>Desejável</td>
+        </tr>
+        <tr>
+            <td>RF.G028</td>
+            <td>Feedbacks de interação.</td>
+            <td>Média</td>
+            <td>Sim</td>
+            <td>Desejável</td>
+        </tr>
+        <tr>
+            <td>RF.G0M29</td>
+            <td>Editar informações pessoais</td>
+            <td>Alta</td>
+            <td>Sim</td>
+            <td>Desejável</td>
+        </tr>
+    </tbody>
+</table>
+
+![Integração realizada](https://github.com/user-attachments/assets/1d9887e4-858c-4cdc-91ae-172f42596680)
+![Porcentadem de resolução dos requisitos](https://github.com/user-attachments/assets/24255582-e128-41d4-bfde-e72c2a6a78b6)
+
+
 
 Veja <a href="./Requisitos e user-story.md">aqui</a> a tabela de requisitos completa, assim como o User Story
 
